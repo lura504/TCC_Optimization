@@ -1,0 +1,209 @@
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Base.ini|Engine/Config/Base.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseCompat.ini|Engine/Config/BaseCompat.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseDeviceProfiles.ini|Engine/Config/BaseDeviceProfiles.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseEngine.ini|Engine/Config/BaseEngine.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseGame.ini|Engine/Config/BaseGame.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseGameUserSettings.ini|Engine/Config/BaseGameUserSettings.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseHardware.ini|Engine/Config/BaseHardware.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseInput.ini|Engine/Config/BaseInput.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseInstallBundle.ini|Engine/Config/BaseInstallBundle.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseMaterialExpressions.ini|Engine/Config/BaseMaterialExpressions.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseRuntimeOptions.ini|Engine/Config/BaseRuntimeOptions.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\BaseScalability.ini|Engine/Config/BaseScalability.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\ConfigRedirects.ini|Engine/Config/ConfigRedirects.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\ConsoleVariables.ini|Engine/Config/ConsoleVariables.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\PluginBase.ini|Engine/Config/PluginBase.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Layouts\DefaultLayout.ini|Engine/Config/Layouts/DefaultLayout.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Layouts\UE4ClassicLayout.ini|Engine/Config/Layouts/UE4ClassicLayout.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\VulkanPC\DataDrivenPlatformInfo.ini|Engine/Config/VulkanPC/DataDrivenPlatformInfo.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\BaseWindowsEngine.ini|Engine/Config/Windows/BaseWindowsEngine.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\BaseWindowsInput.ini|Engine/Config/Windows/BaseWindowsInput.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\DataDrivenPlatformInfo.ini|Engine/Config/Windows/DataDrivenPlatformInfo.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\WindowsGame.ini|Engine/Config/Windows/WindowsGame.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\WindowsInput.ini|Engine/Config/Windows/WindowsInput.ini
+  C:\Users\lucas\OneDrive\Documentos\Unreal Projects\TCC_Optimization\TCC\Config\DefaultEngine.ini|TCC/Config/DefaultEngine.ini
+  C:\Users\lucas\OneDrive\Documentos\Unreal Projects\TCC_Optimization\TCC\Config\DefaultGame.ini|TCC/Config/DefaultGame.ini
+  C:\Users\lucas\OneDrive\Documentos\Unreal Projects\TCC_Optimization\TCC\Config\DefaultInput.ini|TCC/Config/DefaultInput.ini
+Paper2D
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\2D\Paper2D\Config\BasePaper2D.ini|Engine/Plugins/2D/Paper2D/Config/BasePaper2D.ini
+AISupport
+EnvironmentQueryEditor
+ACLPlugin
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Animation\ACLPlugin\Config\FilterPlugin.ini|Engine/Plugins/Animation/ACLPlugin/Config/FilterPlugin.ini
+AnimationData
+ControlRig
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Animation\ControlRig\Config\BaseControlRig.ini|Engine/Plugins/Animation/ControlRig/Config/BaseControlRig.ini
+ControlRigModules
+ControlRigSpline
+DeformerGraph
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Animation\DeformerGraph\Config\BaseDeformerGraph.ini|Engine/Plugins/Animation/DeformerGraph/Config/BaseDeformerGraph.ini
+IKRig
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Animation\IKRig\Config\BaseIKRig.ini|Engine/Plugins/Animation/IKRig/Config/BaseIKRig.ini
+RigLogic
+SkeletalMeshModelingTools
+TweeningUtils
+CameraShakePreviewer
+EngineCameras
+GameplayCameras
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Cameras\GameplayCameras\Config\BaseGameplayCameras.ini|Engine/Plugins/Cameras/GameplayCameras/Config/BaseGameplayCameras.ini
+ChaosCloth
+ChaosVD
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\ChaosVD\Config\ConfigRedirects.ini|Engine/Plugins/ChaosVD/Config/ConfigRedirects.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\ChaosVD\Config\DefaultChaosVD.ini|Engine/Plugins/ChaosVD/Config/DefaultChaosVD.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\ChaosVD\Config\Engine.ini|Engine/Plugins/ChaosVD/Config/Engine.ini
+OodleNetwork
+AnimationSharing
+DumpGPUServices
+NamingTokens
+PixWinPlugin
+PluginUtils
+RenderDocPlugin
+UObjectPlugin
+AssetManagerEditor
+BlueprintHeaderView
+ColorGrading
+ContentBrowserAssetDataSource
+CurveEditorTools
+DataValidation
+EditorScriptingUtilities
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Editor\EditorScriptingUtilities\Config\BaseEditorScriptingUtilities.ini|Engine/Plugins/Editor/EditorScriptingUtilities/Config/BaseEditorScriptingUtilities.ini
+EngineAssetDefinitions
+FacialAnimation
+GeometryMode
+LightMixer
+ObjectMixer
+SequencerAnimTools
+SpeedTreeImporter
+UMGWidgetPreview
+UVEditor
+EnhancedInput
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\EnhancedInput\Config\BaseEnhancedInput.ini|Engine/Plugins/EnhancedInput/Config/BaseEnhancedInput.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\EnhancedInput\Config\Input.ini|Engine/Plugins/EnhancedInput/Config/Input.ini
+DatasmithContent
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Enterprise\DatasmithContent\Config\BaseDatasmithContent.ini|Engine/Plugins/Enterprise/DatasmithContent/Config/BaseDatasmithContent.ini
+GLTFExporter
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Enterprise\GLTFExporter\Config\BaseGLTFExporter.ini|Engine/Plugins/Enterprise/GLTFExporter/Config/BaseGLTFExporter.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Enterprise\GLTFExporter\Config\DefaultGLTFExporter.ini|Engine/Plugins/Enterprise/GLTFExporter/Config/DefaultGLTFExporter.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Enterprise\GLTFExporter\Config\FilterPlugin.ini|Engine/Plugins/Enterprise/GLTFExporter/Config/FilterPlugin.ini
+VariantManager
+VariantManagerContent
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Enterprise\VariantManagerContent\Config\BaseVariantManagerContent.ini|Engine/Plugins/Enterprise/VariantManagerContent/Config/BaseVariantManagerContent.ini
+AutomationUtils
+BackChannel
+ChaosCaching
+ChaosEditor
+ChaosNiagara
+ChaosSolverPlugin
+ChaosUserDataPT
+CharacterAI
+CompositeCore
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Experimental\Compositing\CompositeCore\Config\BaseCompositeCore.ini|Engine/Plugins/Experimental/Compositing/CompositeCore/Config/BaseCompositeCore.ini
+Dataflow
+EditorDataStorage
+EditorDataStorageFeatures
+Fracture
+FullBodyIK
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Experimental\FullBodyIK\Config\BaseFullBodyIK.ini|Engine/Plugins/Experimental/FullBodyIK/Config/BaseFullBodyIK.ini
+GeometryCollectionPlugin
+GeometryDataflow
+LevelSequenceNavigatorBridge
+LocalizableMessage
+NFORDenoise
+PlanarCut
+PlatformCrypto
+PythonScriptPlugin
+RuntimeTelemetry
+ToolPresets
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Experimental\ToolPresets\Config\BaseToolPresets.ini|Engine/Plugins/Experimental/ToolPresets/Config/BaseToolPresets.ini
+Cascade
+Niagara
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\FX\Niagara\Config\BaseNiagara.ini|Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini
+NiagaraSimCaching
+AlembicImporter
+InterchangeAssets
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Interchange\Assets\Config\BaseInterchangeAssets.ini|Engine/Plugins/Interchange/Assets/Config/BaseInterchangeAssets.ini
+InterchangeEditor
+Interchange
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Interchange\Runtime\Config\BaseInterchange.ini|Engine/Plugins/Interchange/Runtime/Config/BaseInterchange.ini
+AvfMedia
+ImgMedia
+MediaCompositing
+MediaPlate
+WebMMedia
+WmfMedia
+MeshPainting
+TcpMessaging
+UdpMessaging
+MetaHumanSDK
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\MetaHuman\MetaHumanSDK\Config\BaseMetaHumanSDK.ini|Engine/Plugins/MetaHuman/MetaHumanSDK/Config/BaseMetaHumanSDK.ini
+ActorSequence
+LevelSequenceEditor
+SequencerScripting
+TemplateSequence
+NNEDenoiser
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\NNE\NNEDenoiser\Config\Game.ini|Engine/Plugins/NNE/NNEDenoiser/Config/Game.ini
+NNERuntimeORT
+OnlineBase
+OnlineServices
+OnlineSubsystem
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Online\OnlineSubsystem\Config\Localization\OnlineSubsystem.ini|Engine/Plugins/Online/OnlineSubsystem/Config/Localization/OnlineSubsystem.ini
+OnlineSubsystemNull
+OnlineSubsystemUtils
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Online\OnlineSubsystemUtils\Config\Editor.ini|Engine/Plugins/Online/OnlineSubsystemUtils/Config/Editor.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Online\OnlineSubsystemUtils\Config\Localization\OnlineSubsystemUtils.ini|Engine/Plugins/Online/OnlineSubsystemUtils/Config/Localization/OnlineSubsystemUtils.ini
+LauncherChunkInstaller
+ActorLayerUtilities
+AndroidFileServer
+AndroidPermission
+AppleImageUtils
+ArchVisCharacter
+AssetTags
+AudioCapture
+AudioSynesthesia
+AudioWidgets
+CableComponent
+ChunkDownloader
+ComputeFramework
+CustomMeshComponent
+ExampleDeviceProfileSelector
+GeometryCache
+GeometryProcessing
+GooglePAD
+HairStrands
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\HairStrands\Config\BaseHairStrands.ini|Engine/Plugins/Runtime/HairStrands/Config/BaseHairStrands.ini
+InputDebugging
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\InputDebugging\Config\Input.ini|Engine/Plugins/Runtime/InputDebugging/Config/Input.ini
+LocationServicesBPLibrary
+Metasound
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\Metasound\Config\BaseMetasound.ini|Engine/Plugins/Runtime/Metasound/Config/BaseMetasound.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\Metasound\Config\DefaultMetaSound.ini|Engine/Plugins/Runtime/Metasound/Config/DefaultMetaSound.ini
+MobilePatchingUtils
+MsQuic
+ProceduralMeshComponent
+PropertyAccessEditor
+PropertyBindingUtils
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\PropertyBindingUtils\Config\BasePropertyBindingUtils.ini|Engine/Plugins/Runtime/PropertyBindingUtils/Config/BasePropertyBindingUtils.ini
+ResonanceAudio
+RigVM
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\RigVM\Config\BaseRigVM.ini|Engine/Plugins/Runtime/RigVM/Config/BaseRigVM.ini
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\RigVM\Config\Editor.ini|Engine/Plugins/Runtime/RigVM/Config/Editor.ini
+SignificanceManager
+SoundFields
+StateTree
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\StateTree\Config\BaseStateTree.ini|Engine/Plugins/Runtime/StateTree/Config/BaseStateTree.ini
+Synthesis
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\Synthesis\Config\BaseSynthesis.ini|Engine/Plugins/Runtime/Synthesis/Config/BaseSynthesis.ini
+WaveTable
+WebMMoviePlayer
+XInputDevice
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\Runtime\Windows\XInputDevice\Config\Input.ini|Engine/Plugins/Runtime/Windows/XInputDevice/Config/Input.ini
+WindowsDeviceProfileSelector
+WindowsMoviePlayer
+InterchangeTests
+TraceUtilities
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\TraceUtilities\Config\BaseTraceUtilities.ini|Engine/Plugins/TraceUtilities/Config/BaseTraceUtilities.ini
+CameraCalibrationCore
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\VirtualProduction\CameraCalibrationCore\Config\BaseCameraCalibrationCore.ini|Engine/Plugins/VirtualProduction/CameraCalibrationCore/Config/BaseCameraCalibrationCore.ini
+Takes
+  C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\VirtualProduction\Takes\Config\BaseTakes.ini|Engine/Plugins/VirtualProduction/Takes/Config/BaseTakes.ini
+WorldMetrics
