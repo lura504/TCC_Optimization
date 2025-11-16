@@ -47,9 +47,13 @@ Disabled Lumen RT Reflections, switched to Reflection Probes;
 
 
 
-^ Commit 
+^ Commit
 
 
+
+Switched to Screen Space Reflections (SSR) + Reflection Probes as fallback;
+
+Switched from Temporal Super Resolution (TSR) to Temporal Antialiasing (TAA) due to less jittering in low roughness materials, better visual fidelity;
 
 
 
@@ -59,9 +63,27 @@ Disabled Lumen RT Reflections, switched to Reflection Probes;
 
 From starting 19.82 ms
 
-to 16.55 ms
+to 13.06 ms
 
 
 
-Look at 
+Inspect at "InitialInspections.wpix"
 
+
+
+ToDo in the next Branch:
+
+Solve:
+
+* \[Graphics Shader]
+* Base Pass 527 μs {reduce cost of Materials}
+* Lights 1.49 ms {Too much light influence overlap? Get rid of Lumen? Shadows in useless areas?}
+* &nbsp;	BatchedLights 527 μs
+* &nbsp;	UnbatchedLights 964 μs
+* DiffuseIndirectAndAO 5.16 ms
+* &nbsp;	DiffuseIndirectComposite(DiffuseIndirect=ScreenProbeGather) 1400x788 {Lumen issue}
+* ComputeVolumetricFog 922.43 μs {Reduce voxel density? Reduce lights with volume scattering?}
+* PostProcessing 947 μs
+* &nbsp;	TAA 238 μs {about 20% of PostProcess time}
+* &nbsp;	Bloom 153 μs
+* &nbsp;	Motion Blur 141 μs
