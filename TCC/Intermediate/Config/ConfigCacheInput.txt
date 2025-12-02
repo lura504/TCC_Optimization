@@ -207,3 +207,4 @@ CameraCalibrationCore
 Takes
   C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\VirtualProduction\Takes\Config\BaseTakes.ini|Engine/Plugins/VirtualProduction/Takes/Config/BaseTakes.ini
 WorldMetrics
+GPULightmass
